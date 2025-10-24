@@ -2,19 +2,19 @@
 
 A simple React app to view, search, and add contacts.
 
-## 🚀 Features
+## Features
 
 - View all contacts
 - Search contacts by name
 - Add a new contact (optional)
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - React (Vite)
 - TailwindCSS
 - Local mock data
 
-## ⚙️ Setup
+## Setup
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/tria-contact-app.git
